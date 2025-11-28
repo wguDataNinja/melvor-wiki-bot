@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling / IDE noise
+.idea/
+.vscode/
+
+# Project-generated outputs
+outputs/
+
+# macOS junk
+.DS_Store
