@@ -1,116 +1,116 @@
-[
-  {
+{
+  "main_page": {
     "page_id": "main_page",
     "title": "Main Page",
     "url": "https://wiki.melvoridle.com/index.php?title=Main_Page&oldid=74127",
-    "category": "meta"
+    "description": "The official Melvor Idle Wiki welcome page and high-level entry point."
   },
-  {
+  "beginners_guide": {
     "page_id": "beginners_guide",
     "title": "Beginners Guide",
     "url": "https://wiki.melvoridle.com/index.php?title=Beginners_Guide&oldid=86859",
-    "category": "guide"
+    "description": "Introduction to Melvor Idle, covering interface, basic mechanics, skills, and early progression."
   },
-  {
+  "combat": {
     "page_id": "combat",
     "title": "Combat",
     "url": "https://wiki.melvoridle.com/w/Combat",
-    "category": "combat_overview"
+    "description": "Overview of the combat skill and basic combat mechanics in Melvor Idle."
   },
-  {
+  "ranged": {
     "page_id": "ranged",
     "title": "Ranged",
     "url": "https://wiki.melvoridle.com/w/Ranged",
-    "category": "combat_skill"
+    "description": "Details about the Ranged combat style and related mechanics."
   },
-  {
+  "summoning": {
     "page_id": "summoning",
     "title": "Summoning",
     "url": "https://wiki.melvoridle.com/w/Summoning",
-    "category": "combat_skill"
+    "description": "Overview of the Summoning skill, familiars, and their effects."
   },
-  {
+  "atlas_of_discovery_faq": {
     "page_id": "atlas_of_discovery_faq",
     "title": "Atlas of Discovery FAQ",
     "url": "https://wiki.melvoridle.com/index.php?title=Atlas_of_Discovery_FAQ&oldid=86187",
-    "category": "expansion_faq"
+    "description": "Frequently asked questions about the Atlas of Discovery expansion, focusing on Cartography, Archaeology, and Barrier monsters."
   },
-  {
+  "combat_guide": {
     "page_id": "combat_guide",
     "title": "Combat Guide",
     "url": "https://wiki.melvoridle.com/index.php?title=Combat_Guide&oldid=86318",
-    "category": "combat_guide"
+    "description": "General guide detailing progression through the combat stages of the base game."
   },
-  {
+  "combat_guide_atlas_of_discovery": {
     "page_id": "combat_guide_atlas_of_discovery",
     "title": "Combat Guide/Atlas of Discovery",
     "url": "https://wiki.melvoridle.com/index.php?title=Combat_Guide/Atlas_of_Discovery&oldid=86854",
-    "category": "combat_guide_expansion"
+    "description": "Combat strategies for the Atlas of Discovery expansion, focusing on Barrier combat and progression goals."
   },
-  {
+  "combat_guide_into_the_abyss": {
     "page_id": "combat_guide_into_the_abyss",
     "title": "Combat Guide/Into the Abyss",
     "url": "https://wiki.melvoridle.com/index.php?title=Combat_Guide/Into_the_Abyss&oldid=86817",
-    "category": "combat_guide_expansion"
+    "description": "Combat strategies for the Into the Abyss expansion, covering Abyssal Resistance and the reversed combat triangle."
   },
-  {
+  "combat_guide_throne_of_the_herald": {
     "page_id": "combat_guide_throne_of_the_herald",
     "title": "Combat Guide/Throne of the Herald",
     "url": "https://wiki.melvoridle.com/index.php?title=Combat_Guide/Throne_of_the_Herald&oldid=86447",
-    "category": "combat_guide_expansion"
+    "description": "Combat strategies for the Throne of the Herald expansion, covering progression from Level 100 to 120."
   },
-  {
+  "faq": {
     "page_id": "faq",
     "title": "FAQ",
     "url": "https://wiki.melvoridle.com/index.php?title=FAQ&oldid=86183",
-    "category": "faq"
+    "description": "General Frequently Asked Questions on gameplay, skills, combat mechanics, game modes, and saving."
   },
-  {
+  "ghostly_parrot_guide": {
     "page_id": "ghostly_parrot_guide",
     "title": "Ghostly Parrot/Guide",
     "url": "https://wiki.melvoridle.com/index.php?title=Ghostly_Parrot/Guide&oldid=86311",
-    "category": "guide"
+    "description": "Guide comparing the effectiveness of the Ghostly Parrot pet versus Skillcapes for maximizing Mastery gain."
   },
-  {
+  "guides": {
     "page_id": "guides",
     "title": "Guides",
     "url": "https://wiki.melvoridle.com/index.php?title=Guides&oldid=86847",
-    "category": "guide_index"
+    "description": "Index of guides organized by topic and stage of progression."
   },
-  {
+  "into_the_abyss_expansion": {
     "page_id": "into_the_abyss_expansion",
     "title": "Into the Abyss Expansion",
     "url": "https://wiki.melvoridle.com/index.php?title=Into_the_Abyss_Expansion&oldid=84109",
-    "category": "expansion_overview"
+    "description": "Overview of the Into the Abyss expansion, including Corruption, Harvesting, and skill trees."
   },
-  {
+  "manual_eating": {
     "page_id": "manual_eating",
     "title": "Manual Eating",
     "url": "https://wiki.melvoridle.com/index.php?title=Manual_Eating&oldid=84184",
-    "category": "combat_mechanics"
+    "description": "Guide explaining techniques like reactive and spam eating to heal manually during combat."
   },
-  {
+  "save_management": {
     "page_id": "save_management",
     "title": "Save Management",
     "url": "https://wiki.melvoridle.com/index.php?title=Save_Management&oldid=86139",
-    "category": "meta"
+    "description": "Information on migrating save files and purchases across platforms using Melvor Cloud."
   },
-  {
+  "barrier_guide": {
     "page_id": "barrier_guide",
     "title": "Barrier/Guide",
     "url": "https://wiki.melvoridle.com/index.php?title=Barrier/Guide&oldid=86273",
-    "category": "combat_mechanics"
+    "description": "Strategy guide for the Barrier combat mechanic, including gear progression and summoning support."
   },
-  {
+  "throne_of_the_herald_expansion": {
     "page_id": "throne_of_the_herald_expansion",
     "title": "Throne of the Herald Expansion",
     "url": "https://wiki.melvoridle.com/index.php?title=Throne_of_the_Herald_Expansion&oldid=64392",
-    "category": "expansion_overview"
+    "description": "Overview of the Throne of the Herald expansion, including the level cap increase to 120 and the Township skill."
   },
-  {
+  "what_to_level_first": {
     "page_id": "what_to_level_first",
     "title": "What to level first",
     "url": "https://wiki.melvoridle.com/index.php?title=What_to_level_first&oldid=86885",
-    "category": "progression_guide"
+    "description": "Progression guide suggesting initial leveling strategies for new players, including laid-back and combat-focused paths."
   }
-]
+}
